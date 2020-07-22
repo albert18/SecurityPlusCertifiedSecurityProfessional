@@ -1,6 +1,20 @@
-**************************************
-**************************************
-**************************************
-**************************************
+************************************** Comptia Security Analytics Professional
+-Security+
+-CYSA+
+
+************************************** Comptia Secure Infrastructure Specialist
+-Security+
+-A+
+-Networking+
+
+************************************** Comptia Secure Cloud Professional
+-Security+
+-Cloud 
+
+************************************** Comptia Security Analytics Expert
+-Security+
+-CYSA+
+-CASP
+
 **************************************
 **************************************
