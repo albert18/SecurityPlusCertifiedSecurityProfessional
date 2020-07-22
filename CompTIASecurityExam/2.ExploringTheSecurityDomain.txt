@@ -1,0 +1,21 @@
+***************************** Threats, Attacks, Vulnerabilities
+-Threat Attacks, and Vulnerabilitie
+-Technologies and tools
+-Architecture and design
+-Identity and Access Management
+-Risk Management
+-Cryptography and PKI
+
+
+
+
+
+
+*****************************
+*****************************
+*****************************
+*****************************
+*****************************
+*****************************
+*****************************
+*****************************
